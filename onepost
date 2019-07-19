@@ -1,5 +1,5 @@
 #! /usr/bin/perl
-my $TEMPLATE='$HOME/.quickblog/template2.html';
+my $TEMPLATE='cupper.html';
 my $EXTENSION='md';
 
 if (-e $ARGV[0] . ".$EXTENSION") {
